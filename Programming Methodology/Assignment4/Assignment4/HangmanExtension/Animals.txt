@@ -1,0 +1,69 @@
+Alligator
+Ant
+Anteater
+Antelope
+Arctic Fox
+Arctic Wolf
+Armadillo
+Asian Elephant
+Asian Giant Hornet
+Baboon
+Badger
+Bat
+Bear
+Beetle
+Bengal Tiger
+Bird
+Birman
+Bison
+Black Bear
+Black Widow
+Blue Whale
+Brown Bear
+Buffalo
+Bulldog
+Butterfly
+Camel
+Cat
+Caterpillar
+Catfish
+Centipede
+Chameleon
+Cheetah
+Cockroach
+Crocodile
+Deer
+Dolphin
+Donkey
+Dragonfly
+Eagle
+Elephant
+Falcon
+Fox
+German Shepherd
+Giraffe
+Goose
+Gorilla
+Iguana
+Koala
+Lemur
+Leopard
+Lion
+Lizard
+Monkey
+Octopus
+Puma
+Rabbit
+Seahorse
+Sheep
+Snail
+Snake
+Sparrow
+Squid
+Squirrel
+Tiger
+Turkey
+Wasp
+Whale Shark
+Wild Boar
+Zebra
